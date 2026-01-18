@@ -1,0 +1,8 @@
+name = "cors-proxy"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+# Optional: Add these if you move to a custom domain later
+# routes = [
+#     { pattern = "proxy.yourdomain.com", custom_domain = true }
+# ]

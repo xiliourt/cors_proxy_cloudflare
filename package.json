@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-cors-proxy",
+  "version": "1.0.0",
+  "description": "A generic CORS proxy worker",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  },
+  "private": true
+}
